@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Yunfei Xing"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yunfei Xing"
 description              : &description "personal description"
-url                      : https://YunfeiXing531.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yunfeixing531.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
