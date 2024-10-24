@@ -25,7 +25,7 @@ author:
   name             : "Yunfei Xing"
   pronouns         : # example: "she/her"  
   bio              : "Hi! I’m Yunfei Xing, an Associate Professor in the School of Business and Management, Jilin University."
-  location         : "Earth"
+  location         : "Changchun, Jilin, China"
   uri              : # URL
   email            : "xingyf@jlu.edu.cn" 
 
@@ -35,7 +35,6 @@ author:
   impactstory      : # URL
   orcid            : "0000-0002-5512-4364"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -47,7 +46,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
