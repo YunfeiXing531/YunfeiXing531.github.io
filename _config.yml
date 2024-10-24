@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Hi! I’m Yunfei Xing, an Associate Professor in the School of Business and Management, Jilin University."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "xingyf@jlu.edu.cn" 
 
