@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Yunfei Xing, an Associate Professor in the School of Business and Management, Jilin University.
+Hi! I’m Yunfei Xing, an Associate Professor in the School of Business and Management, Jilin University. I recieved a PhD in School of Management in Jilin University in 2019. My research focuses on Social Media, Public Opinion and User Behavior. My work has been published in Technology in Society, Journal of Enterprise Information Management, Financial Innovation, among other peer-reviewed journals.
 
 A data-driven personal website
 ======
