@@ -9,41 +9,30 @@ redirect_from:
 
 Hi! I’m **Yunfei Xing**, an Associate Professor in the School of Business and Management, Jilin University. I recieved a PhD in School of Management in Jilin University in 2019. My research focuses on **Social Media**, **Public Opinion** and **User Behavior**. My work has been published in *Technology in Society*, *Journal of Enterprise Information Management*, *Financial Innovation*, among other peer-reviewed journals.
 
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1.Xing, Y., Zhang, J. Z*., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. Technology in Society, 77, 102534. (SSCI Q1)
+2.Xing, Y., Zhang, J. Z*., He, Y., Li, Y. (2025). Toward an Ecosystem of Non-Fungible Tokens from Mapping Public Opinions on Social Media. Financial Innovation, DOI: 10.1186/s40854-024-00674-8 (SSCI Q1)
+3.Xing, Y., Wang, X*., Qiu, C., Li, Y., & He, W. (2022). Research on opinion polarization by big data analytics capabilities in online social networks. Technology in Society, 68, 101902. (SSCI Q1) 
+4.Xing, Y., Zhang, J. Z*., Storey, V. C. and Koohang, A. (2024). Diving into the divide: a systematic review of cognitive bias-based polarization on social media. Journal of Enterprise Information Management, 37(1): 259-287. (SSCI Q1)
+5.Xing, Y., Zhang, J. Z*. (2025). Metaverse Maelstrom: Dissecting Information Dynamics and Polarization. Journal of Information Science. (学科A类期刊)
+6.Xing, Y*., Wang, X., Wang, F.-K., Shi, Y., He, W., & Chang, H. (2021). Ranking Influential Nodes of Fake News Spreading on Mobile Social Networks. Journal of Global Information Management, 29(4), 93–130. (SSCI Q1)                    
+7.Xing, Y., Yu, L., Zhang, J. Z*., & Zheng, L. J. (2023). Uncovering the dark side of Artificial Intelligence in electronic markets. Journal of Organizational and End User Computing, 35(1), 1–25. (SCI、SSCI Q1)
+8.Xing, Y*., He, Y., & Zhang, J. Z. (2023). Examining themes of social media users’ opinion on remote work during COVID-19 pandemic: A justice theory perspective. Library Hi Tech. 
+9.Xing, Y., He, W., Zhang, J. Z*., & Cao, G. (2022). Ai privacy opinions between us and Chinese people. Journal of Computer Information Systems, 63(3): 492-506. 
+10.Xing, Y*., Li, Y., & Wang, F.-K. (2021). How privacy concerns and cultural differences affect public opinion during the COVID-19 pandemic: a case study. Aslib Journal of Information Management, 73(4), 517-542.
+11.Xing, Y*., He, W., Cao, G., & Li, Y. (2021). Using data mining to track the information spreading on social media about the COVID-19 outbreak. The Electronic Library, 40(1/2), 63–82. 
+12.Wang, X., Xing, Y*., Wei, Y., Zheng, Q., Xing, G. Public opinion information dissemination in mobile social networks - taking Sina Weibo as an example. Information Discovery and Delivery. 2020,48(4): 213-224.
+13.邢云菲, 王晰巍. 国外社交媒体中群体极化研究综述[J].情报科学，2022,40(9)： 174-182.
+14.邢云菲, 王晰巍. 基于时空大数据的社交网络舆情演化图谱研究——以“天和核心舱发射”话题为例[J].情报资料工作，2022,43(2):46-55.
+15.邢云菲, 曹高辉, 陶 然. 网络用户在线评论的主题图谱构建及可视化研究 ——以酒店用户评论为例[J]. 情报科学, 2021,39(9): 101-109.
+16.邢云菲, 李玉海. 基于文本挖掘的微博舆情主题图谱可视化研究[J]. 农业图书情报学报, 2021,33(7):12-23.
+17.邢云菲, 王晰巍, 韩雪雯. 基于信息熵的新媒体环境下网络节点影响力研究-以微信公众号为例[J]. 图书情报工作, 2018.62(5)：76-86.
+18.邢云菲, 李玉海. 高校网络舆情传播主题图谱可视化研究[J]. 情报科学, 2020,38(11): 88-93.
+19.邢云菲, 王晰巍, 王铎. 基于信息熵的新媒体环境下负面网络舆情监测指标体系研究[J]. 现代情报, 2018(9):41-47.
+20.邢云菲, 王晰巍, 韦雅楠. 新媒体环境下网络舆情用户情感演化模型研究——基于情感极性及情感强度理论[J]. 情报科学, 2018，36 (08):144-150.
+21.王晰巍, 邢云菲, 赵丹. 基于社会网络分析的移动环境下网络舆情信息传播研究——以新浪微博“雾霾”话题为例[J]. 图书情报工作, 2015, 59(7)：14-22.
+22.王晰巍, 邢云菲, 赵丹. 移动环境下网络舆情信息传播路径及传播规律研究[J]. 情报理论与实践, 2016, 39(9):107-113.
+23.王晰巍, 邢云菲, 王楠阿雪. 新媒体环境下突发事件网络舆情信息传播及实证研究——以新浪微博“南海仲裁案”话题为例[J]. 情报理论与实践, 2017,40(9):1-7.
+24.王晰巍, 邢云菲, 张柳. 社交媒体环境下的网络舆情国内外发展动态及趋势研究[J]. 情报资料工作, 2017(04):8-16.
+25.王晰巍, 邢云菲, 王铎.大数据驱动的社交网络舆情用户情感主题分类模型构建研究 ——以“移民”主题为例[J].信息资源管理学报, 2020, 10(1):4-14.
