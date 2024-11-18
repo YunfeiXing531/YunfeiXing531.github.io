@@ -11,29 +11,29 @@ Hi! I’m **Yunfei Xing**, an Associate Professor in the School of Business and 
 
 Publications
 ======
-1. **Xing, Y**., Zhang, J. Z*., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. *Technology in Society*, 77, 102534. (SSCI Q1)
+1. **Xing, Y**., Zhang, J. Z*., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. Technology in Society, 77, 102534. (SSCI Q1)
 
-2. **Xing, Y**., Zhang, J. Z*., He, Y., Li, Y. (2025). Toward an Ecosystem of Non-Fungible Tokens from Mapping Public Opinions on Social Media. *Financial Innovation*, DOI: 10.1186/s40854-024-00674-8 (SSCI Q1)
+2. **Xing, Y**., Zhang, J. Z*., He, Y., Li, Y. (2025). Toward an Ecosystem of Non-Fungible Tokens from Mapping Public Opinions on Social Media. Financial Innovation, DOI: 10.1186/s40854-024-00674-8 (SSCI Q1)
 
-3. **Xing, Y**., Wang, X*., Qiu, C., Li, Y., & He, W. (2022). Research on opinion polarization by big data analytics capabilities in online social networks. *Technology in Society*, 68, 101902. (SSCI Q1) 
+3. **Xing, Y**., Wang, X*., Qiu, C., Li, Y., & He, W. (2022). Research on opinion polarization by big data analytics capabilities in online social networks. Technology in Society, 68, 101902. (SSCI Q1) 
 
-4. **Xing, Y**., Zhang, J. Z*., Storey, V. C. and Koohang, A. (2024). Diving into the divide: a systematic review of cognitive bias-based polarization on social media. *Journal of Enterprise Information Management*, 37(1): 259-287. (SSCI Q1)
+4. **Xing, Y**., Zhang, J. Z*., Storey, V. C. and Koohang, A. (2024). Diving into the divide: a systematic review of cognitive bias-based polarization on social media. Journal of Enterprise Information Management, 37(1): 259-287. (SSCI Q1)
 
-5. **Xing, Y**., Zhang, J. Z*. (2025). Metaverse Maelstrom: Dissecting Information Dynamics and Polarization. *Journal of Information Science*.
+5. **Xing, Y**., Zhang, J. Z*. (2025). Metaverse Maelstrom: Dissecting Information Dynamics and Polarization. Journal of Information Science.
 
-6. **Xing, Y***., Wang, X., Wang, F.-K., Shi, Y., He, W., & Chang, H. (2021). Ranking Influential Nodes of Fake News Spreading on Mobile Social Networks. *Journal of Global Information Management*, 29(4), 93–130. (SSCI Q1)
+6. **Xing, Y***., Wang, X., Wang, F.-K., Shi, Y., He, W., & Chang, H. (2021). Ranking Influential Nodes of Fake News Spreading on Mobile Social Networks. Journal of Global Information Management, 29(4), 93–130. (SSCI Q1)
 
-7. **Xing, Y**., Yu, L., Zhang, J. Z*., & Zheng, L. J. (2023). Uncovering the dark side of Artificial Intelligence in electronic markets. *Journal of Organizational and End User Computing*, 35(1), 1–25. (SCI、SSCI Q1)
+7. **Xing, Y**., Yu, L., Zhang, J. Z*., & Zheng, L. J. (2023). Uncovering the dark side of Artificial Intelligence in electronic markets. Journal of Organizational and End User Computing, 35(1), 1–25. (SCI、SSCI Q1)
 
-8. **Xing, Y***., He, Y., & Zhang, J. Z. (2023). Examining themes of social media users’ opinion on remote work during COVID-19 pandemic: A justice theory perspective. *Library Hi Tech*.
+8. **Xing, Y***., He, Y., & Zhang, J. Z. (2023). Examining themes of social media users’ opinion on remote work during COVID-19 pandemic: A justice theory perspective. Library Hi Tech.
 
-9. **Xing, Y**., He, W., Zhang, J. Z*., & Cao, G. (2022). Ai privacy opinions between us and Chinese people. *Journal of Computer Information Systems*, 63(3): 492-506.
+9. **Xing, Y**., He, W., Zhang, J. Z*., & Cao, G. (2022). Ai privacy opinions between us and Chinese people. Journal of Computer Information Systems, 63(3): 492-506.
 
-10. **Xing, Y***., Li, Y., & Wang, F.-K. (2021). How privacy concerns and cultural differences affect public opinion during the COVID-19 pandemic: a case study. *Aslib Journal of Information Management*, 73(4), 517-542.
+10. **Xing, Y***., Li, Y., & Wang, F.-K. (2021). How privacy concerns and cultural differences affect public opinion during the COVID-19 pandemic: a case study. Aslib Journal of Information Management, 73(4), 517-542.
 
-11. **Xing, Y***., He, W., Cao, G., & Li, Y. (2021). Using data mining to track the information spreading on social media about the COVID-19 outbreak. *The Electronic Library*, 40(1/2), 63–82.
+11. **Xing, Y***., He, W., Cao, G., & Li, Y. (2021). Using data mining to track the information spreading on social media about the COVID-19 outbreak. The Electronic Library, 40(1/2), 63–82.
 
-12. Wang, X., **Xing, Y***., Wei, Y., Zheng, Q., Xing, G. Public opinion information dissemination in mobile social networks - taking Sina Weibo as an example. *Information Discovery and Delivery*. 2020,48(4): 213-224.
+12. Wang, X., **Xing, Y***., Wei, Y., Zheng, Q., Xing, G. Public opinion information dissemination in mobile social networks - taking Sina Weibo as an example. Information Discovery and Delivery. 2020,48(4): 213-224.
 
 13. **邢云菲**, 王晰巍. 国外社交媒体中群体极化研究综述[J].情报科学，2022,40(9)： 174-182.
 
