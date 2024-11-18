@@ -11,7 +11,7 @@ Hi! I’m **Yunfei Xing**, an Associate Professor in the School of Business and 
 
 Publications
 ======
-1. **Xing, Y**., Zhang, J. Z*., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. *Technology in Society*, 77, 102534. (SSCI Q1)
+1. **Xing, Y**., Zhang, J. Z*., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. **Technology in Society*, 77, 102534. (SSCI Q1)
 
 2. **Xing, Y**., Zhang, J. Z*., He, Y., Li, Y. (2025). Toward an Ecosystem of Non-Fungible Tokens from Mapping Public Opinions on Social Media. *Financial Innovation*, DOI: 10.1186/s40854-024-00674-8 (SSCI Q1)
 
