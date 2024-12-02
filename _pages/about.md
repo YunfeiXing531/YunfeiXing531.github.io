@@ -19,7 +19,7 @@ Publications
 
 4. **Xing, Y**., Zhang, J. Z*., Storey, V. C. and Koohang, A. (2024). Diving into the divide: a systematic review of cognitive bias-based polarization on social media. Journal of Enterprise Information Management, 37(1): 259-287. (SSCI Q1, IF=7.4, 7/161)
 
-5. **Xing, Y**., Zhang, J. Z*. (2025). Metaverse Maelstrom: Dissecting Information Dynamics and Polarization. Journal of Information Science. (学科A类期刊)
+5. **Xing, Y**., Zhang, J. Z*. (2025). Metaverse Maelstrom: Dissecting Information Dynamics and Polarization. Journal of Information Science. (学科A类)
 
 6. **Xing, Y***., Wang, X., Wang, F.-K., Shi, Y., He, W., & Chang, H. (2021). Ranking Influential Nodes of Fake News Spreading on Mobile Social Networks. Journal of Global Information Management, 29(4), 93–130. (SSCI Q1, IF=4.5, 24/161)
 
