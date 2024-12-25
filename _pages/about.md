@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Yunfei Xing
+title: Yunfei Xing 邢云菲
 author_profile: true
 redirect_from: 
   - /about/
