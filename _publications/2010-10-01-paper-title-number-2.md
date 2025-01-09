@@ -3,9 +3,7 @@ permalink: /
 title: Publications
 author_profile: true
 permalink: /publication/2010-10-01-paper-title-number-2
----
-
-======
+excerpt: '
 1. **Xing, Y**., Zhang, J. Z., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. *Technology in Society*, 77, 102534. (中科院TOP, SSCI Q1, IF=10.1, 2/267)
 2. **Xing, Y**., Zhang, J. Z., He, Y., Li, Y. (2025). Toward an Ecosystem of Non-Fungible Tokens from Mapping Public Opinions on Social Media. *Financial Innovation*, https://doi.org/10.1186/s40854-024-00674-8 (中科院一区, SSCI Q1, IF=6.9，9/233)
 3. **Xing, Y**., Zhang, J. Z. (2025). Metaverse maelstrom: Dissecting information dynamics and polarisation. *Journal of Information Science*. https://doi.org/10.1177/01655515241307546
@@ -31,3 +29,5 @@ permalink: /publication/2010-10-01-paper-title-number-2
 23. 王晰巍, **邢云菲**, 王楠阿雪. 新媒体环境下突发事件网络舆情信息传播及实证研究——以新浪微博“南海仲裁案”话题为例[J]. 情报理论与实践, 2017,40(9):1-7.
 24. 王晰巍, **邢云菲**, 张柳. 社交媒体环境下的网络舆情国内外发展动态及趋势研究[J]. 情报资料工作, 2017(04):8-16.
 25. 王晰巍, **邢云菲**, 王铎.大数据驱动的社交网络舆情用户情感主题分类模型构建研究 ——以“移民”主题为例[J].信息资源管理学报, 2020, 10(1):4-14.
+'
+---
