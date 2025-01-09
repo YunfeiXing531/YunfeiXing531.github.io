@@ -1,10 +1,10 @@
 ---
-permalink: /
-title: Publications
-author_profile: true
+collection: publications
+category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: '测试'
 ---
+
 1. **Xing, Y**., Zhang, J. Z., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. *Technology in Society*, 77, 102534. (中科院TOP, SSCI Q1, IF=10.1, 2/267)
 2. **Xing, Y**., Zhang, J. Z., He, Y., Li, Y. (2025). Toward an Ecosystem of Non-Fungible Tokens from Mapping Public Opinions on Social Media. *Financial Innovation*, https://doi.org/10.1186/s40854-024-00674-8 (中科院一区, SSCI Q1, IF=6.9，9/233)
 3. **Xing, Y**., Zhang, J. Z. (2025). Metaverse maelstrom: Dissecting information dynamics and polarisation. *Journal of Information Science*. https://doi.org/10.1177/01655515241307546
