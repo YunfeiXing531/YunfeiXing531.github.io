@@ -7,8 +7,10 @@
 main:
   - title: "Publications"
     url: /publications/
+    
   - title: "Fundings"
     url: /Fundings/
+    
   - title: "Cooperation"
     url: /Cooperation/
     
