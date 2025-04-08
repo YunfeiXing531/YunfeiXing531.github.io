@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Cooperation"
-permalink: /Cooperation/
+title: "Study"
+permalink: /Study/
 author_profile: true
 ---
