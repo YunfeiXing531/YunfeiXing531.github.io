@@ -11,11 +11,11 @@ Hi! I’m **Yunfei Xing**, an Associate Professor in the School of Business and 
 
 Publications
 ======
-1. **Xing, Y**., Zhang, J. Z., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. *Technology in Society*, 77, 102534. (中科院TOP, SSCI Q1, IF=12.5, 2/271)
-2. **Xing, Y**., Zhang, J. Z., He, Y., Li, Y. (2025). Toward an Ecosystem of Non-Fungible Tokens from Mapping Public Opinions on Social Media. *Financial Innovation*, 11(1): 6 (中科院TOP, SSCI Q1, IF=7.2, 9/241)
-3. **Xing, Y**., Zhang, J. Z. (2025). Shadows and Light: Unveiling Multifaceted Polarization in Social Media Discourse on Human Trafficking. *Social Media + Society*. (中科院TOP, SSCI Q1, IF=4.9, 9/227)
+1. **Xing, Y**., Zhang, J. Z., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. *Technology in Society*, 77, 102534. (中科院一区, SSCI Q1, IF=12.5, 2/271)
+2. **Xing, Y**., Zhang, J. Z., He, Y., Li, Y. (2025). Toward an Ecosystem of Non-Fungible Tokens from Mapping Public Opinions on Social Media. *Financial Innovation*, 11(1): 6 (中科院一区, SSCI Q1, IF=7.2, 9/241)
+3. **Xing, Y**., Zhang, J. Z. (2025). Shadows and Light: Unveiling Multifaceted Polarization in Social Media Discourse on Human Trafficking. *Social Media + Society*. (中科院一区, SSCI Q1, IF=4.9, 9/227)
 4. **Xing, Y**., Zhang, J. Z. (2025). Metaverse maelstrom: Dissecting information dynamics and polarisation. *Journal of Information Science*.
-5. **Xing, Y**., Wang, X., Qiu, C., Li, Y., & He, W. (2022). Research on opinion polarization by big data analytics capabilities in online social networks. *Technology in Society*, 68, 101902. (中科院TOP, SSCI Q1, IF=12.5, 2/271, ESI 高被引论文)
+5. **Xing, Y**., Wang, X., Qiu, C., Li, Y., & He, W. (2022). Research on opinion polarization by big data analytics capabilities in online social networks. *Technology in Society*, 68, 101902. (中科院一区, SSCI Q1, IF=12.5, 2/271, ESI 高被引论文)
 6. **Xing, Y**., Zhang, J. Z., Storey, V. C. and Koohang, A. (2024). Diving into the divide: a systematic review of cognitive bias-based polarization on social media. *Journal of Enterprise Information Management*, 37(1): 259-287. (SSCI Q1, IF=6.4, 10/166)
 7. **Xing, Y**., Wang, X., Wang, F.-K., Shi, Y., He, W., & Chang, H. (2021). Ranking Influential Nodes of Fake News Spreading on Mobile Social Networks. *Journal of Global Information Management*, 29(4), 93–130. (SSCI Q1, IF=4.5, 24/161)
 8. **Xing, Y**., Yu, L., Zhang, J. Z., & Zheng, L. J. (2023). Uncovering the dark side of Artificial Intelligence in electronic markets. *Journal of Organizational and End User Computing*, 35(1), 1–25. (SCI、SSCI Q1)
