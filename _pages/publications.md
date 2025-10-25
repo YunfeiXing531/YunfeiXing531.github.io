@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Xing, Y**., Zhang, J. Z., Wang, X. (2026). Digital innovation and transformation process in business growth: A systematic literature review and research agenda. *Technovation*. (中科院一区Top, SSCI Q1, IF= 10.9, 10/420)
+1. **Xing, Y**., Zhang, J. Z., Wang, X. (2026). Digital innovation and transformation process in business growth: A systematic literature review and research agenda. *Technovation*. 151, 103396. (中科院一区Top, SSCI Q1, IF= 10.9, 10/420)
 2. **Xing, Y**., Zhang, J. Z., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. *Technology in Society*, 77, 102534. (中科院一区Top, SSCI Q1, IF=12.5, 2/271)
 3. **Xing, Y**., Zhang, J. Z., He, Y., Li, Y. (2025). Toward an Ecosystem of Non-Fungible Tokens from Mapping Public Opinions on Social Media. *Financial Innovation*, 11(1):6. (中科院一区Top, SSCI Q1, IF=7.2, 9/241)
 4. **Xing, Y**., Zhang, J. Z. (2025). Shadows and Light: Unveiling Multifaceted Polarization in Social Media Discourse on Human Trafficking. *Social Media + Society*. (中科院一区Top, SSCI Q1, IF=4.9, 9/227)
