@@ -13,7 +13,7 @@ author_profile: true
 6. **Xing, Y**., Wang, X., Qiu, C., Li, Y., & He, W. (2022). Research on opinion polarization by big data analytics capabilities in online social networks. *Technology in Society*, 68, 101902. (中科院一区Top, SSCI Q1, IF=12.5, 2/271, 高被引论文)
 7. **Xing, Y**., Zhang, J. Z. (2025). Metaverse maelstrom: Dissecting information dynamics and polarisation. *Journal of Information Science*. (T2)
 8. **Xing, Y**., Zhang, J. Z., Storey, V. C. and Koohang, A. (2024). Diving into the divide: a systematic review of cognitive bias-based polarization on social media. *Journal of Enterprise Information Management*, 37(1): 259-287. (SSCI Q1, IF=7.4, 10/166)
-9. **Xing, Y**., Wang, X., Wang, F.-K., Shi, Y., He, W., & Chang, H. (2021). Ranking Influential Nodes of Fake News Spreading on Mobile Social Networks. *Journal of Global Information Management*, 29(4), 93–130. (SSCI Q1, IF=4.5, 24/161)
+9. **Xing, Y**., Wang, X., Wang, F.-K., Shi, Y., He, W., & Chang, H. (2021). Ranking influential nodes of fake news spreading on mobile social networks. *Journal of Global Information Management*, 29(4), 93–130. (SSCI Q1, IF=4.5, 24/161)
 10. **Xing, Y**., Yu, L., Zhang, J. Z., & Zheng, L. J. (2023). Uncovering the dark side of Artificial Intelligence in electronic markets. *Journal of Organizational and End User Computing*, 35(1), 1–25. (SCI、SSCI Q1)
 11. **Xing, Y**., He, Y., & Zhang, J. Z. (2023). Examining themes of social media users’ opinion on remote work during COVID-19 pandemic: A justice theory perspective. *Library Hi Tech*, 43(1), 249–273.
 12. **Xing, Y**., He, W., Zhang, J. Z., & Cao, G. (2022). Ai privacy opinions between us and Chinese people. *Journal of Computer Information Systems*, 63(3): 492-506.
