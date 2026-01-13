@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Study"
-permalink: /Study/
+title: "Cooperation"
+permalink: /Cooperation/
 author_profile: true
 ---
 Track in time
