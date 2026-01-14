@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "State of mind"
-permalink: /State of mind/
+title: "Current Mental State"
+permalink: /Current Mental State/
 author_profile: true
 ---
 
-😡
+😡😫😒😢🤢
