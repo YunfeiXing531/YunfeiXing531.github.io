@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Xing, Y**., He, Y., & Zeng L. (2026). Unveiling big data-driven price discrimination in China: Evidence from public opinion on Chinese Tiktok. *Technological Forecasting & Social Change*. (中科院一区Top, SSCI Q1, IF= 13.3, 4/316)
+1. **Xing, Y**., He, Y., & Zeng L. (2026). Unveiling big data-driven price discrimination in China: Evidence from public opinion on Chinese Tiktok. *Technological Forecasting & Social Change*. 223, 124445. (中科院一区Top, SSCI Q1, IF= 13.3, 4/316)
 2. **Xing, Y**., Zhang, J. Z., Wang, X. (2026). Digital innovation and transformation process in business growth: A systematic literature review and research agenda. *Technovation*. 151, 103396. (中科院一区Top, SSCI Q1, IF= 10.9, 10/420)
 3. **Xing, Y**., Zhang, J. Z., Chang, H., Shang, D., Gupata B. (2026). Mapping collective knowledge flows in the digital public sphere: A multi-layer network approach to chatbot discourse. *Journal of Knowledge Management*. (中科院一区, SSCI Q1, IF= 9.5, 4/166)
 4. **Xing, Y**., Zhang, J. Z., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. *Technology in Society*, 77, 102534. (中科院一区Top, SSCI Q1, IF=12.5, 2/271)
