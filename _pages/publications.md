@@ -8,8 +8,7 @@ author_profile: true
 1. **Xing, Y**., He, Y., & Zeng L. (2026). Unveiling big data-driven price discrimination in China: Evidence from public opinion on Chinese Tiktok. *Technological Forecasting & Social Change*, 223, 124445. (中科院一区Top, SSCI Q1, IF= 13.3, 4/316)
 2. **Xing, Y**., Zhang, J. Z., Wang, X. (2026). Digital innovation and transformation process in business growth: A systematic literature review and research agenda. *Technovation*, 151, 103396. (中科院一区Top, SSCI Q1, IF= 10.9, 10/420)
 3. **Xing, Y**., Zhang, J. Z., Chang, H., Shang, D., Gupata B. (2026). Mapping collective knowledge flows in the digital public sphere: A multi-layer network approach to chatbot discourse. *Journal of Knowledge Management*. (中科院一区, SSCI Q1, IF= 9.5, 4/166)
-4.  **Xing, Y**., Liu, J., He Y., Zhang, J. Z. What resonates most? An investigation on the factors of customer satisfaction in senior living communities
-Journal of Hospitality and Tourism Management. *Journal of Hospitality and Tourism Management*. (中科院一区, SSCI Q1, IF= 7.8, 8/141)
+4.  **Xing, Y**., Liu, J., He Y., Zhang, J. Z. What resonates most? An investigation on the factors of customer satisfaction in senior living communities. *Journal of Hospitality and Tourism Management*. (中科院一区, SSCI Q1, IF= 7.8, 8/141)
 5. **Xing, Y**., Zhang, J. Z., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. *Technology in Society*, 77, 102534. (中科院一区Top, SSCI Q1, IF=12.5, 2/271)
 6. **Xing, Y**., Zhang, J. Z., He, Y., Li, Y. (2025). Toward an ecosystem of non-fungible tokens from mapping public opinions on social media. *Financial Innovation*, 11(1):6. (中科院一区Top, SSCI Q1, IF=7.2, 9/241)
 7. **Xing, Y**., Zhang, J. Z. (2025). Shadows and light: Unveiling multifaceted polarization in social media discourse on human trafficking. *Social Media + Society*. (中科院一区Top, SSCI Q1, IF=4.9, 9/227)
