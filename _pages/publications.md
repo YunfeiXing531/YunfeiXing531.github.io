@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Xing, Y**., He, Y., & Zeng L. (2026). Unveiling big data-driven price discrimination in China: Evidence from public opinion on Chinese Tiktok. *Technological Forecasting & Social Change*, 223, 124445. (中科院一区Top, SSCI Q1, IF= 13.3, 4/316)
-2. **Xing, Y**., Zhang, J. Z., & Wang, X. (2026). Digital innovation and transformation process in business growth: A systematic literature review and research agenda. *Technovation*, 151, 103396. (中科院一区Top, SSCI Q1, IF= 10.9, 10/420)
+1. **Xing, Y**., He, Y., & Zeng L. (2026). Unveiling big data-driven price discrimination in China: Evidence from public opinion on Chinese Tiktok. *Technological Forecasting & Social Change*, 223, 124445. (SSCI Q1, IF= 13.3, 4/316)
+2. **Xing, Y**., Zhang, J. Z., & Wang, X. (2026). Digital innovation and transformation process in business growth: A systematic literature review and research agenda. *Technovation*, 151, 103396. (SSCI Q1, IF= 10.9, 10/420)
 3. **Xing, Y**., Zhang, J. Z., Chang, H., Shang, D., & Gupata B. (2026). Mapping collective knowledge flows in the digital public sphere: A multi-layer network approach to chatbot discourse. *Journal of Knowledge Management*. (SSCI Q1, IF= 9.5, 4/166)
-4. **Xing, Y**., Zhang, J. Z. (2026). The algorithmic guest: AI as a co-creator in customer experience management. *International Journal of Contemporary Hospitality Management*. (中科院一区, SSCI Q1, IF= 9, 4/141)
-5.  **Xing, Y**., Liu, J., He, Y., & Zhang, J. Z. (2026). What resonates most? An investigation on the factors of customer satisfaction in senior living communities. *Journal of Hospitality and Tourism Management*, 66, 101423. (中科院一区, SSCI Q1, IF= 7.8, 8/141)
-6. **Xing, Y**., Zhang, J. Z., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. *Technology in Society*, 77, 102534. (中科院一区Top, SSCI Q1, IF=12.5, 2/271)
-7. **Xing, Y**., Zhang, J. Z., He, Y., & Li, Y. (2025). Toward an ecosystem of non-fungible tokens from mapping public opinions on social media. *Financial Innovation*, 11(1):6. (中科院一区Top, SSCI Q1, IF=7.2, 9/241)
-8. **Xing, Y**., & Zhang, J. Z. (2025). Shadows and light: Unveiling multifaceted polarization in social media discourse on human trafficking. *Social Media + Society*. (中科院一区Top, SSCI Q1, IF=4.9, 9/227)
-9. **Xing, Y**., Wang, X., Qiu, C., Li, Y., & He, W. (2022). Research on opinion polarization by big data analytics capabilities in online social networks. *Technology in Society*, 68, 101902. (中科院一区Top, SSCI Q1, IF=12.5, 2/271, 高被引论文)
+4. **Xing, Y**., Zhang, J. Z. (2026). The algorithmic guest: AI as a co-creator in customer experience management. *International Journal of Contemporary Hospitality Management*. (SSCI Q1, IF= 9, 4/141)
+5.  **Xing, Y**., Liu, J., He, Y., & Zhang, J. Z. (2026). What resonates most? An investigation on the factors of customer satisfaction in senior living communities. *Journal of Hospitality and Tourism Management*, 66, 101423. (SSCI Q1, IF= 7.8, 8/141)
+6. **Xing, Y**., Zhang, J. Z., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. *Technology in Society*, 77, 102534. (SSCI Q1, IF=12.5, 2/271)
+7. **Xing, Y**., Zhang, J. Z., He, Y., & Li, Y. (2025). Toward an ecosystem of non-fungible tokens from mapping public opinions on social media. *Financial Innovation*, 11(1):6. ( SSCI Q1, IF=7.2, 9/241)
+8. **Xing, Y**., & Zhang, J. Z. (2025). Shadows and light: Unveiling multifaceted polarization in social media discourse on human trafficking. *Social Media + Society*. (SSCI Q1, IF=4.9, 9/227)
+9. **Xing, Y**., Wang, X., Qiu, C., Li, Y., & He, W. (2022). Research on opinion polarization by big data analytics capabilities in online social networks. *Technology in Society*, 68, 101902. (SSCI Q1, IF=12.5, 2/271, ESI highly cited paper)
 10. **Xing, Y**., & Zhang, J. Z. (2025). Metaverse maelstrom: Dissecting information dynamics and polarisation. *Journal of Information Science*. (T2)
 11. **Xing, Y**., Zhang, J. Z., Storey, V. C. & Koohang, A. (2024). Diving into the divide: a systematic review of cognitive bias-based polarization on social media. *Journal of Enterprise Information Management*, 37(1): 259-287. (SSCI Q1, IF=7.4, 10/166)
 12. **Xing, Y**., Wang, X., Wang, F.-K., Shi, Y., He, W., & Chang, H. (2021). Ranking influential nodes of fake news spreading on mobile social networks. *Journal of Global Information Management*, 29(4), 93–130. (SSCI Q1, IF=4.5, 24/161)
