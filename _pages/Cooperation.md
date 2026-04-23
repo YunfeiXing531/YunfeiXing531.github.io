@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /Current Mental State/
+permalink:
 author_profile: true
 ---
 
-😏
+
