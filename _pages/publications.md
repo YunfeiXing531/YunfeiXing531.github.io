@@ -7,7 +7,7 @@ author_profile: true
 
 1. **Xing, Y**., He, Y., & Zeng L. (2026). Unveiling big data-driven price discrimination in China: Evidence from public opinion on Chinese Tiktok. *Technological Forecasting & Social Change*, 223, 124445. (SSCI Q1, IF= 13.5)
 2. **Xing, Y**., Zhang, J. Z., & Wang, X. (2026). Digital innovation and transformation process in business growth: A systematic literature review and research agenda. *Technovation*, 151, 103396. (SSCI Q1, IF= 12)
-3. **Xing, Y**., Zhang, J. Z., Chang, H., Shang, D., & Gupata B. (2026). Mapping collective knowledge flows in the digital public sphere: A multi-layer network approach to chatbot discourse. *Journal of Knowledge Management*. (SSCI Q1, IF= 9.5, 4/166)
+3. **Xing, Y**., Zhang, J. Z., Chang, H., Shang, D., & Gupata B. (2026). Mapping collective knowledge flows in the digital public sphere: A multi-layer network approach to chatbot discourse. *Journal of Knowledge Management*. (SSCI Q1, IF= 9.5)
 4. **Xing, Y**., & Zhang, J. Z. (2026). The algorithmic guest: AI as a co-creator in customer experience management. *International Journal of Contemporary Hospitality Management*, 38(4):1433-1452. (SSCI Q1, IF= 11.3)
 5.  **Xing, Y**., Liu, J., He, Y., & Zhang, J. Z. (2026). What resonates most? An investigation on the factors of customer satisfaction in senior living communities. *Journal of Hospitality and Tourism Management*, 66, 101423. (SSCI Q1, IF= 10.1)
 6. **Xing, Y**., Zhang, J. Z., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. *Technology in Society*, 77, 102534. (SSCI Q1, IF=12.9)
