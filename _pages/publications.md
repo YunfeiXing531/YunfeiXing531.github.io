@@ -11,7 +11,7 @@ author_profile: true
 4. **Xing, Y**., & Zhang, J. Z. (2026). The algorithmic guest: AI as a co-creator in customer experience management. *International Journal of Contemporary Hospitality Management*, 38(4):1433-1452. (SSCI Q1, IF= 11.3)
 5.  **Xing, Y**., Liu, J., He, Y., & Zhang, J. Z. (2026). What resonates most? An investigation on the factors of customer satisfaction in senior living communities. *Journal of Hospitality and Tourism Management*, 66, 101423. (SSCI Q1, IF= 10.1)
 6. **Xing, Y**., Zhang, J. Z., Teng, G., & Zhou, X. (2024). Voices in the digital storm: Unraveling online polarization with chatgpt. *Technology in Society*, 77, 102534. (SSCI Q1, IF=12.9)
-7. **Xing, Y**., Zhang, J. Z., He, Y., & Li, Y. (2025). Toward an ecosystem of non-fungible tokens from mapping public opinions on social media. *Financial Innovation*, 11(1):6. ( SSCI Q1, IF=6.4)
+7. **Xing, Y**., Zhang, J. Z., He, Y., & Li, Y. (2025). Toward an ecosystem of non-fungible tokens from mapping public opinions on social media. *Financial Innovation*, 11(1):6. (SSCI Q1, IF=6.4)
 8. **Xing, Y**., & Zhang, J. Z. (2025). Shadows and light: Unveiling multifaceted polarization in social media discourse on human trafficking. *Social Media + Society*. (SSCI Q1, IF=5.8)
 9. **Xing, Y**., Wang, X., Qiu, C., Li, Y., & He, W. (2022). Research on opinion polarization by big data analytics capabilities in online social networks. *Technology in Society*, 68, 101902. (SSCI Q1, IF=12.9, ESI highly cited paper)
 10. **Xing, Y**., & Zhang, J. Z. (2025). Metaverse maelstrom: Dissecting information dynamics and polarisation. *Journal of Information Science*. (T2)
